@@ -34,7 +34,7 @@ My core is in C# programming, currently learning the basic ropes of Web Developm
 
 <!-- ONGOING PROJECTS -->
 ## Projects
-[![My Skills](https://skillicons.dev/icons?i=unity,unrealengine,cs&perline=3)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=unity,unrealengine,cs&perline=3)
 
 <ul>
    <li>Multiplayer Third Person Shooter Using Unity and Photon Network: <strong><a href="https://badape.io/another-dimension/">Bad Ape Another Dimension</a></strong></li>
