@@ -1,15 +1,12 @@
 <a name="readme-top"></a>
-<h3 align="center">Hamdan Basri</h3>
 
 <!-- PROFILE PICTURE -->
 <div align="center">
 <a href="https://github.com/hamdanbasri">
-<img src="images/ProfilePicRounded.png" alt="Profile Picture" width="200" height="200">
+<img src="images/Cover.jpg" alt="Profile Picture">
 </a>
-<p align="center">
-Another <strong>ordinary</strong> developer
-</p>
 </div>
+</br>
 
 
 <!-- TABLE OF CONTENTS -->
