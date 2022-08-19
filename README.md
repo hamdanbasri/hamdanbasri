@@ -8,6 +8,7 @@
 </div>
 </br>
 
+![](https://komarev.com/ghpvc/?username=hamdanbasri&style=flat-square)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -33,9 +34,8 @@ My core is in C# programming, currently learning the basic ropes of Web Developm
 
 <!-- ONGOING PROJECTS -->
 ## Projects
-[![Unity][unity-shield]][unity-url]
-![C#][c#-shield]
-![VsCode][vscode-shield]
+[![My Skills](https://skillicons.dev/icons?i=unity,unrealengine,cs&perline=3)](https://skillicons.dev)
+
 <ul>
    <li>Multiplayer Third Person Shooter Using Unity and Photon Network: <strong><a href="https://badape.io/another-dimension/">Bad Ape Another Dimension</a></strong></li>
    <li>Works with <strong><a href="https://www.youtube.com/c/weareedt">weareEDT</a></strong> using: 
@@ -45,9 +45,9 @@ My core is in C# programming, currently learning the basic ropes of Web Developm
       <li> Spark AR </li>
       <li> HTC Vive, Oculus Quest 1 & 2, Valve Index </li>
    </ul>
+</ul>
 
-
-</ul>    
+[![Youtube][youtube-shield]][youtube-url]
 
 <!-- GETTING STARTED -->
 ## What I Am Learning
@@ -57,11 +57,16 @@ My core is in C# programming, currently learning the basic ropes of Web Developm
 ![css3][css3-shield]
 
 <!-- CONTACT -->
-## Contact
+## Connect
 
-[![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Youtube][youtube-shield]][youtube-url]
+<p align="left">
+  <a href="https://linkedin.com/in/hamdanbasri">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://twitter.com/its_danisauraus">
+    <img src="https://skillicons.dev/icons?i=twitter"/>
+  </a>
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
