@@ -3,7 +3,7 @@
 <!-- PROFILE PICTURE -->
 <div align="center">
 <a href="https://github.com/hamdanbasri">
-<img src="images/Cover.jpg" alt="Profile Picture">
+<img src="images/Cover.jpg" alt="Profile Cover">
 </a>
 </div>
 </br>
