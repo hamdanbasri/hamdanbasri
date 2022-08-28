@@ -23,7 +23,7 @@
 
 <!-- ABOUT ME -->
 ## About Me
-
+<img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" alt="Programming GIF" width="300" height="200"></a></br>
 I am a 🎮 developer that focuses on the logic and mechanics of the game, I mainly work using Unity Game Engine.<br>
 My core is in C# programming, currently learning the basic ropes of Web Development.
 </br>
@@ -31,6 +31,7 @@ My core is in C# programming, currently learning the basic ropes of Web Developm
 ![toplanguage][toplang-shield]
 </br>
 ![api][api-shield]
+
 
 <!-- ONGOING PROJECTS -->
 ## Projects
