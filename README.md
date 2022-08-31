@@ -23,11 +23,12 @@
 
 <!-- ABOUT ME -->
 ## About Me
-<img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" alt="Programming GIF" width="300" height="200"></a></br>
+<a href="https://app.daily.dev/hamdanbasri"><img src="https://api.daily.dev/devcards/b176fd46666b41f780001517e830ad8d.png?r=ssq" width="200" alt="Hamdan Basri's Dev Card"/></a></br>
 I am a 🎮 developer that focuses on the logic and mechanics of the game, I mainly work using Unity Game Engine.<br>
 My core is in C# programming, currently learning the basic ropes of Web Development.
 </br>
 </br>
+
 ![toplanguage][toplang-shield]
 </br>
 ![api][api-shield]
