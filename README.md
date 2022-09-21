@@ -17,17 +17,31 @@
     <li><a href="#about-me">About Me</a></li>
     <li><a href="#projects">Projects</a></li>
     <li><a href="#what-i-am-learning">What I Am Learning</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#connect">Connect</a></li>
   </ol>
 </details>
 
 <!-- ABOUT ME -->
 ## About Me
 <a href="https://app.daily.dev/hamdanbasri"><img src="https://api.daily.dev/devcards/b176fd46666b41f780001517e830ad8d.png?r=ssq" width="200" alt="Hamdan Basri's Dev Card"/></a></br>
-I am a 🎮 developer that focuses on the logic and mechanics of the game, I mainly work using Unity Game Engine.<br>
-My core is in C# programming, currently learning the basic ropes of Web Development.
-</br>
-</br>
+>
+``` C
+public class AboutMe
+{
+  public string occupation;
+  public string engineOfChoice;
+  public string coreLanguage;
+  public string whatIAmLearning;
+  
+  void Start()
+  {
+    occupation = I am a 🎮 developer that focuses on the logic and mechanics of the game.
+    engineOfChoice = I mainly work using Unity Game Engine. Unreal Engine is my secondary engine.
+    coreLanguage = My core is in C# programming.
+    whatIAmLearning = Currently learning the basic ropes of Web Development.
+  }
+}
+```
 
 ![toplanguage][toplang-shield]
 </br>
