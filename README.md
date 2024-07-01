@@ -36,9 +36,9 @@ public class AboutMe
   void Start()
   {
     occupation = I am a 🎮 developer that focuses on the logic and mechanics of the game.
-    engineOfChoice = I mainly work using Unity Game Engine. Unreal Engine is my secondary engine.
-    coreLanguage = My core is in C# programming.
-    whatIAmLearning = Currently learning the basic ropes of Web Development.
+    engineOfChoice = Starting 2023, I mainly work using Unreal Engine, I used to use develop for Unity Game Engine.
+    coreLanguage = My core is in C# programming, I am still learning C++.
+    whatIAmLearning = Currently improving my skills related to Unreal Engine.
   }
 }
 ```
