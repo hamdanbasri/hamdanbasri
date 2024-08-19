@@ -53,8 +53,10 @@ public class AboutMe
 ![My Skills](https://skillicons.dev/icons?i=unity,unrealengine,cs&perline=3)
 
 <ul>
+  <li>Design Experience Specialist</li>
+  <li>Recent Project: <strong><a href="https://www.youtube.com/watch?v=mz6uaue8uek"> Claw Machine using Unreal Engine 5</a></strong></li>
    <li>Multiplayer Third Person Shooter Using Unity and Photon Network: <strong><a href="https://badape.io/another-dimension/">Bad Ape Another Dimension</a></strong></li>
-   <li>Works with <strong><a href="https://www.youtube.com/c/weareedt">weareEDT</a></strong> using: 
+   <li>Previous works with <strong><a href="https://www.youtube.com/c/weareedt">weareEDT</a></strong> using: 
    <ul>
       <li> Unity </li>
       <li> Unreal Engine </li>
