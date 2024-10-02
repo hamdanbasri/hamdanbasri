@@ -54,6 +54,15 @@ public class AboutMe
 
 <ul>
   <li>Design Experience Specialist</li>
+  <li>Current Focus</li>
+  <ul>
+    <li>Unreal Engine</li>
+    <li>C++</li>
+    <li>Azure DevOps</li>
+    <li>Apple Vision Pro</li>
+    <li>Python</li>
+    <li>Javascript</li>
+  </ul>
   <li>Recent Project: <strong><a href="https://www.youtube.com/watch?v=mz6uaue8uek"> Claw Machine using Unreal Engine 5</a></strong></li>
    <li>Multiplayer Third Person Shooter Using Unity and Photon Network: <strong><a href="https://badape.io/another-dimension/">Bad Ape Another Dimension</a></strong></li>
    <li>Previous works with <strong><a href="https://www.youtube.com/c/weareedt">weareEDT</a></strong> using: 
@@ -69,10 +78,13 @@ public class AboutMe
 
 <!-- GETTING STARTED -->
 ## What I Am Learning
-![Photon][photon-shield]
 ![Unreal Engine][unreal-shield]
 ![html5][html5-shield]
 ![css3][css3-shield]
+![javascript][javascript-shield]
+![python][python-shield]
+![AzureDevOps][AzureDevOps-shield]
+![Photon][photon-shield]
 
 <!-- CONTACT -->
 ## Connect
@@ -106,5 +118,8 @@ public class AboutMe
 [unreal-shield]: https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white
 [photon-shield]: https://img.shields.io/badge/-PhotonEngine-blue?style=for-the-badge
 [vscode-shield]: 	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+[python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [toplang-shield]: https://github-readme-stats.vercel.app/api/top-langs/?username=hamdanbasri&theme=chartreuse-dark
 [api-shield]: https://github-readme-stats.vercel.app/api?username=hamdanbasri&theme=chartreuse-dark
+[azuredevops-shield]: https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white
