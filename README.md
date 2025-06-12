@@ -35,7 +35,7 @@ public class AboutMe
   
   void Start()
   {
-    occupation = I am a 🎮 developer that focuses on the logic and mechanics of the game.
+    occupation = I am a 🎮 developer that focuses on the logic, tools and mechanics of the game.
     engineOfChoice = Starting 2023, I mainly work using Unreal Engine, I used to use develop for Unity Game Engine.
     coreLanguage = My core is in C# programming, I am still learning C++.
     whatIAmLearning = Currently improving my skills related to Unreal Engine.
@@ -53,7 +53,7 @@ public class AboutMe
 ![My Skills](https://skillicons.dev/icons?i=unity,unrealengine,cs&perline=3)
 
 <ul>
-  <li>Design Experience Specialist</li>
+  <li>Immersive Design Associate Manager</li>
   <li>Current Focus</li>
   <ul>
     <li>Unreal Engine</li>
@@ -64,7 +64,6 @@ public class AboutMe
     <li>Javascript</li>
   </ul>
   <li>Recent Project: <strong><a href="https://www.youtube.com/watch?v=mz6uaue8uek"> Claw Machine using Unreal Engine 5</a></strong></li>
-   <li>Multiplayer Third Person Shooter Using Unity and Photon Network: <strong><a href="https://badape.io/another-dimension/">Bad Ape Another Dimension</a></strong></li>
    <li>Previous works with <strong><a href="https://www.youtube.com/c/weareedt">weareEDT</a></strong> using: 
    <ul>
       <li> Unity </li>
